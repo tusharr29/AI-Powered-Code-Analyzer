@@ -1,6 +1,4 @@
-# AI-Powered Code Analyzer, Auto-Fixer, and Plagiarism Detection System
-
-A final-year engineering project built with Python and Streamlit.
+# AI-Powered Code Analyzer
 
 ## Features
 - Syntax error detection using Python AST

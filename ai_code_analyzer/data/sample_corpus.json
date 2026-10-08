@@ -1,0 +1,14 @@
+[
+  {
+    "name": "factorial_reference.py",
+    "code": "def factorial(n):\n    result = 1\n    for i in range(1, n + 1):\n        result *= i\n    return result\n"
+  },
+  {
+    "name": "sum_even_numbers.py",
+    "code": "def sum_even(nums):\n    total = 0\n    for n in nums:\n        if n % 2 == 0:\n            total += n\n    return total\n"
+  },
+  {
+    "name": "while_loop_sample.py",
+    "code": "count = 0\nwhile count < 5:\n    print(count)\n    count += 1\n"
+  }
+]
